@@ -9,9 +9,6 @@
 
 A highly secure, offline-first macOS desktop environment overlay. This project bypasses the standard macOS window manager to provide a fullscreen, immersive, AI-native shell. It combines a zero-latency Rust/React UI with a Python backend capable of streaming local LLM inferences, querying local Vector databases, and physically controlling the Mac hardware via native AppleScript execution.
 
-## 🎥 System Demonstration
-*(Note: Replace this image with a GIF of the OS booting up and changing the volume/answering a prompt)*
-![System Demo GIF](https://via.placeholder.com/800x450.png?text=OS+Boot+Sequence+and+Hardware+Control+Demo)
 
 ## 🏗️ System Architecture
 
